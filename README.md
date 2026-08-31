@@ -1,15 +1,11 @@
-# terekcampbell.github.io
+# Scorekeeper
 
-Static privacy policy page for [Scorekeeper](https://github.com/terekcampbell/Scorekeeper),
-served via GitHub Pages at https://terekcampbell.github.io/.
+This page hosts the privacy policy for **Scorekeeper**, a score tracker for
+board games, card games, sports, and pretty much any activity you keep
+score in.
 
-Contains a single file, `index.html` — the privacy policy content, copied
-from Scorekeeper's `public/privacy.html`. This URL is what's entered as the
-privacy policy link in the App Store Connect and Google Play Console
-submission forms.
+- Privacy policy: https://terekcampbell.github.io/
+- Source code: https://github.com/terekcampbell/Scorekeeper
 
-## Updating
-
-When Scorekeeper's privacy policy changes, copy the updated
-`public/privacy.html` from that repo over this repo's `index.html` and
-push — GitHub Pages redeploys automatically on push to `main`.
+If you're looking for the app itself rather than this policy page, check
+the link above for build/install instructions.
